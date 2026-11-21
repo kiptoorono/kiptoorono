@@ -2,7 +2,7 @@
 
 Data Scientist | Climate Data Science, Geospatial Analysis, Business Intelligence
 
-I use statistical modelling, remote sensing, and automation to turn environmental and business data into decisions. My work spans climate risk assessment, environmental monitoring, and product and customer analytics, with a growing focus on climate research.
+I use statistical modelling, remote sensing, and automation to turn environmental and business data into actionable insights. My work spans climate risk assessment, environmental monitoring, and Business Intelligence, with a growing focus and interest on climate research.
 
 ## ◈ Focus Areas
 
@@ -27,7 +27,3 @@ I use statistical modelling, remote sensing, and automation to turn environmenta
 ## ◈ Currently Exploring
 
 Applying remote sensing and machine learning to climate risk and environmental monitoring.
-
-## ◈ Contact
-
-[LinkedIn](your-link) › [Email](mailto:your-email) › [Website](your-site)
