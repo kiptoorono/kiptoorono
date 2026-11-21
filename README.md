@@ -1,29 +1,33 @@
-# Hi, I'm Brian 👋
+# ◆ Brian
 
-I'm a **Data Scientist** working across climate data science, geospatial analysis, and business intelligence, with a strong interest in climate research. 
+Data Scientist | Climate Data Science, Geospatial Analysis, Business Intelligence
 
-My work combines data analysis, remote sensing, statistical modelling, and automation, with applications in climate risk assessment, environmental monitoring, and business decision-making.
+I use statistical modelling, remote sensing, and automation to turn environmental and business data into decisions. My work spans climate risk assessment, environmental monitoring, and product and customer analytics, with a growing focus on climate research.
 
-## 🌍 Areas of Interest & Work
+## ◈ Focus Areas
 
-- **Climate Research:** Climate variability, climate risks, extreme weather, and environmental change
-- **Geospatial Analysis:** GIS, remote sensing, and spatial analysis
-- **Business Intelligence:** Customer behaviour, product analytics, and business performance
-- **Data Science:** Statistical modelling, machine learning, and predictive analytics
-- **Data Analysis:** Data processing, automation, and visualization
+| Area | Scope |
+|---|---|
+| ▸ Climate Research | Climate variability, extreme weather, climate risk, environmental change |
+| ▸ Geospatial Analysis | GIS, remote sensing, spatial analysis |
+| ▸ Business Intelligence | Customer behaviour, product analytics, performance reporting |
+| ▸ Data Science | Statistical modelling, machine learning, predictive analytics |
+| ▸ Automation | Data processing pipelines, reproducible workflows |
 
-## 🛠️ Technologies
+## ◈ Technical Stack
 
-**Languages:** Python · R · SQL · JavaScript
+| Category | Tools |
+|---|---|
+| ▸ Languages | Python, R, SQL, JavaScript |
+| ▸ Data Science | Pandas, NumPy, Scikit-learn, SciPy |
+| ▸ Geospatial | ArcGIS, Google Earth Engine, Google Earth Studio |
+| ▸ Visualization and BI | Power BI, Tableau, Metabase, Excel |
+| ▸ Tooling | Git, GitHub, Jupyter |
 
-**Data Science:** Pandas · NumPy · Scikit-learn · SciPy
+## ◈ Currently Exploring
 
-**Geospatial:** Arc GIS · Google Earth Engine · Google Earth Studio
+Applying remote sensing and machine learning to climate risk and environmental monitoring.
 
-**Visualization & BI:** Power BI · Metabase · Tableau · Excel
+## ◈ Contact
 
-**Tools:** Git · GitHub · Jupyter Notebook
-
-## 🔭 Currently Exploring
-
-Climate research, geospatial technologies, and data-driven approaches to environmental and business challenges.
+[LinkedIn](your-link) › [Email](mailto:your-email) › [Website](your-site)
